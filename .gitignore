@@ -17,3 +17,5 @@ assets
 .tsconfig*.json
 coverage-unmapped.json
 npm-debug.log
+
+.now
